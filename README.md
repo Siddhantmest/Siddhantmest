@@ -6,8 +6,7 @@
 
 💬 Looking to collaborate on projects with applications to Computer Vision and Natural Langauge Processing
 
-📫 [Email][Email] **|** 
+📫 Email: siddhant.agarwal@mail.utoronto.ca **|** 
 👔 [linkedin][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/siddhant-agarwal-uoft/
-[Email]: siddhant.agarwal@mail.utoronto.ca
