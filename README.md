@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Siddhant
 
-👀 I’m currently a graduate student at the University of Toronto graduating in May 2021, majoring in Data Sceince and interested in Machine Learning and Deep Learning
+👀 I’m currently a graduate student at the University of Toronto graduating in May 2021, majoring in Data Science and interested in Machine Learning and Deep Learning
 
 🌱 I’m currently working on undergraduate student survey data to derive student characteristics by performing statistical analysis and implementing unsupervised machine learning algortihms such as [Kmedian algorithm][kmedian]
 
