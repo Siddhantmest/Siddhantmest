@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Siddhant
+## 👋 Hello, I’m Siddhant
 
 👀 I am a recent graduate from the University of Toronto with a Master of Engineering and a major in Analytics, interested in Machine Learning and Deep Learning applications. 
 
-🌱 I’m currently working on undergraduate student survey data and diverse datasets to derive student characteristics by performing statistical analysis, [Factor Analysis][factor], and implementing unsupervised machine learning algortihms such as [Kmedian algorithm][kmedian]
+🌱 During my work experience I have worked on undergraduate student survey data and diverse datasets to derive student characteristics by performing statistical analysis, [Factor Analysis][factor], and implemented unsupervised machine learning algortihms such as [Kmedian algorithm][kmedian]
 
 💬 Would love to collaborate on projects
 
