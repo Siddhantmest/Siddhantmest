@@ -2,9 +2,7 @@
 
 👀 I graduated from the University of Toronto with a Master of Engineering and a major in Analytics, interested in Machine Learning and Deep Learning applications. 
 
-🌱 Here are the links to my repos where I have implemented [Factor Analysis][factor] for dimensionality reduction, [Kmedian algorithm][kmedian] for unsupervised unsupervised machine learning.
-
-💬 I have worked on diverse projects feel free to check out my repos and do let me know if something can be done better, I have added the links to the datasets if the data size is small I have uploaded it in my repo wherever possible. 
+💬 Here are the links to my repos where I have implemented [Factor Analysis][factor] for dimensionality reduction, [Kmedian algorithm][kmedian] for unsupervised unsupervised machine learning. I have worked on diverse projects feel free to check them out and do let me know if something can be done better, I have added the links to the datasets if the data size is small I have uploaded it in my repo wherever possible. 
 
 📫 Email: siddhant.agarwal@mail.utoronto.ca **|** 
 👔 [linkedin][linkedin]
